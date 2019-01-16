@@ -1,9 +1,0 @@
-{
-    "Description": "An advanced permissions plugin for Bukkit/Spigot & BungeeCord.",
-    "img": "https://luckperms.github.io/assets/logo/720px.png",
-    "Spigot": "https://www.spigotmc.org/resources/luckperms-an-advanced-permissions-plugin.28140/",
-    "Wiki": "https://github.com/lucko/LuckPerms/wiki",
-    "GitHub": "https://github.com/lucko/LuckPerms",
-    "Jenkins": "https://ci.lucko.me/job/LuckPerms/",
-    "Website": "https://luckperms.github.io/"
-}
