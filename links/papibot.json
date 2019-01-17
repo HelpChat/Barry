@@ -1,5 +1,6 @@
 {
 	"Description": "View placeholderapi expansions, their placeholders, and the current status of the eCloud via a discord bot!",
 	"Invite": "https://helpch.at/papibot",
-	"Github": "https://github.com/help-chat/PlaceholderAPI-Discord-Bot"
+	"Github": "https://github.com/help-chat/PlaceholderAPI-Discord-Bot",
+	"img": "https://piggypiglet.me/cdn/helpchat/papibot.png"
 }
