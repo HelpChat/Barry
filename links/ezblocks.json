@@ -1,0 +1,6 @@
+{
+    "Description": "Reward players for mining + track global blocks broken + pickaxe specific blocks broken counters!",
+    "img": "https://www.spigotmc.org/data/resource_icons/1/1499.jpg",
+    "Spigot": "https://www.spigotmc.org/resources/ezblocks.1499/",
+    "Placeholders": "https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#ezblocks"
+}
