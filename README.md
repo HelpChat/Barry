@@ -3,7 +3,7 @@ Barry bot for HelpChat
 
 /Links/
 Used for the `=links <plugin/service>` command.
-Got a plugin you want to add? Feel free to submut a pull request.
+Got a plugin you want to add? Feel free to submit a pull request.
 
 **Example Template:**
 `pluginname.json`
