@@ -1,4 +1,5 @@
 {
+  "Description": "Provides read/write access to the Minecraft protocol",
   "Spigot": "https://www.spigotmc.org/resources/1997/",
   "Dev-builds": "http://ci.dmulloy2.net/job/ProtocolLib/",
   "GitHub": "https://github.com/dmulloy2/ProtocolLib",
