@@ -1,5 +1,6 @@
 {
     "Description": "A resource that allows information from your favorite plugins be shown practically anywhere!",
+    "img": "https://www.spigotmc.org/data/resource_icons/6/6245.jpg",
     "Spigot": "https://www.spigotmc.org/resources/placeholderapi.6245/",
     "Wiki": "https://github.com/PlaceholderAPI/PlaceholderAPI/wiki",
     "Placeholder-List": "https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders",
