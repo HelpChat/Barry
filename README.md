@@ -1,4 +1,4 @@
-![Barry](https://helpch.at/resources/barry.png)
+![Barry](https://helpch.at/resources/barry_header.png)
 
 /Links/
 Used for the `=links <plugin/service>` command.
