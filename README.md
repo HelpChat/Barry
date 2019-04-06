@@ -1,5 +1,4 @@
-# Barry
-Barry bot for HelpChat
+![Barry](https://helpch.at/resources/barry.png)
 
 /Links/
 Used for the `=links <plugin/service>` command.
