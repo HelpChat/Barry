@@ -2,16 +2,31 @@
 
 /Links/
 Used for the `=links <plugin/service>` command.
+
+/versions/
+Used for the `=ver <plugin>` command.
+
 Got a plugin you want to add? Feel free to submit a pull request.
 
-**Example Template:**
-`pluginname.json`
+**Example Templates:**
+
+`/links/pluginname.json`
 ```
 {
     "Description": "Awesome plugin!",
     "img": "https://link.to.the.img.png",
     "Words": "Need more words? Just type them",
     "Spigot": "https://www.spigotmc.org/resources/"
+}
+```
+
+`/versions/pluginname.json`
+```
+{
+    "img": "https://link.to.the.img.png",
+    "1.8": "v1.0.0",
+    "1.12.2": "v1.3.4",
+    "1.13.2": "v1.8.6 - Latest"
 }
 ```
 
