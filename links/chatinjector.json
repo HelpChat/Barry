@@ -1,6 +1,7 @@
 {
-    "Description": "Allows you to parse PlaceholderAPI placeholders in chat!",
     "img": "https://static.spigotmc.org/styles/spigot/xenresource/resource_icon.png",
+    "»": "Allows You To Parse PlaceholderAPI Placeholders In Chat!",
     "Spigot": "https://www.spigotmc.org/resources/38327/",
-    "GitHub": "https://github.com/Twi5TeD/ChatInjector"
+    "GitHub": "https://github.com/Twi5TeD/ChatInjector",
+    "Supported Versions": "1.8.8 - 1.13.2"
 }
