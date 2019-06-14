@@ -1,7 +1,8 @@
 {
-    "Description": "A plugin that gives players the option to rent or buy regions from WorldGuard.",
     "img": "https://www.spigotmc.org/data/resource_icons/2/2991.jpg",
+    "»": "A Plugin That Gives Players The Option To Rent Or Buy Regions From WorldGuard",
     "Spigot": "https://www.spigotmc.org/resources/2991/",
     "GitHub": "https://github.com/NLThijs48/AreaShop",
-    "Wiki": "https://github.com/NLThijs48/AreaShop/wiki"
+    "Wiki": "https://github.com/NLThijs48/AreaShop/wiki",
+    "Supported Versions": "1.8.8 - 1.14.2"
 }
