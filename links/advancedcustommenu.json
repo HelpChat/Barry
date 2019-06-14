@@ -1,7 +1,8 @@
 {
-  "Description": "Create custom inventories with click-handlers, view-handlers, animated items all with placeholders!",
   "img": "https://www.spigotmc.org/data/resource_icons/47/47945.jpg",
+  "»": "Create Custom Inventories With Click-Handlers, View-Handlers, Animated Items All With Placeholders!",
   "Spigot": "https://www.spigotmc.org/resources/47945/",
   "Dependency": "https://www.spigotmc.org/resources/49628/",
-  "Wiki": "https://github.com/SuperRonanCraft/AdvancedCustomMenu/wiki"
+  "Wiki": "https://github.com/SuperRonanCraft/AdvancedCustomMenu/wiki",
+  "Supported Versions": "1.8.8 - 1.14.2"
 }
