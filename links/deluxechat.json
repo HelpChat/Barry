@@ -1,7 +1,8 @@
 {
     "img": "https://www.spigotmc.org/data/resource_icons/1/1277.jpg",
+    "Information": "The Original JSON Chat Formatting Plugin Which Allows The Use of Placeholders To Do Fancy Stuff",
     "Spigot": "https://www.spigotmc.org/resources/deluxechat.1277/",
     "Available Placeholders": "https://helpch.at/placeholders",
-    "»": "The Original JSON Chat Formatting Plugin Which Allows The Use of Placeholders To Do Fancy Stuff",
-    "Demonstration Video": "https://www.youtube.com/watch?v=xqs8hptpFlc"
+    "Demonstration Video": "https://www.youtube.com/watch?v=xqs8hptpFlc",
+    "Supported Versions": "1.8.8 - 1.14.2"
 }
