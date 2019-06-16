@@ -14,6 +14,7 @@ Got a plugin you want to add? Feel free to submit a pull request.
 ```
 {
     "name": "PluginName",
+    "title": "Useful Links & Information:",
     "colour": "16725857",
     "description": "Awesome plugin!",
     "img": "https://link.to.the.img.png",
@@ -38,7 +39,8 @@ Got a plugin you want to add? Feel free to submit a pull request.
     "img": "https://link.to.the.img.png",
     "1.8": "v1.0.0",
     "1.12.2": "v1.3.4",
-    "1.13.2": "v1.8.6 - Latest"
+    "1.13.2": "v1.8.6",
+    "1.14.3": "v1.9.2 - Latest"
 }
 ```
 
