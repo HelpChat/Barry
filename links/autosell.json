@@ -1,0 +1,9 @@
+{
+    "name": "AutoSell", 
+    "title": "Useful Links & Information:",
+    "colour": "16725857",
+    "description": "Ultimate prison mining and selling solution! /sellall + signs + blocks2inv + the original 'AutoSell'",
+    "img": "https://www.spigotmc.org/data/resource_icons/2/2157.jpg",
+    "Spigot": "https://www.spigotmc.org/resources/autosell.2157/",
+    "Placeholders": "https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#autosell"
+}
