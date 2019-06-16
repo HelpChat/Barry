@@ -8,11 +8,10 @@ Used for the `=ver <plugin>` command.
 
 Got a plugin you want to add? Feel free to submit a pull request.
 
-**Example Templates:**
 ## Links Command
 
 `/links/pluginname.json`
-```
+```json
 {
     "name": "PluginName",
     "title": "Useful Links & Information:",
@@ -36,7 +35,7 @@ Got a plugin you want to add? Feel free to submit a pull request.
 
 ## Versions Command
 `/versions/pluginname.json`
-```
+```json
 {
     "img": "https://link.to.the.img.png",
     "1.8": "v1.0.0",
@@ -46,7 +45,8 @@ Got a plugin you want to add? Feel free to submit a pull request.
 }
 ```
 
-Just need to follow the JSON format seen in the other plugins.
+###### Notes:
+Just need to follow the JSON format seen in the other plugins/versions.
   - file names should be in lowercase and end in .json
   - All links need to either start with https:// or http:// for Barry to pickup
   - You can have any amount links and information, but try to only put the useful ones in.
