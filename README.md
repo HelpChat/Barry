@@ -14,7 +14,7 @@ Got a plugin you want to add? Feel free to submit a pull request.
 ```
 {
     "name": "PluginName",
-	"colour": "16725857",
+    "colour": "16725857",
     "description": "Awesome plugin!",
     "img": "https://link.to.the.img.png",
     "Words": "Need more words? Just type them",
