@@ -9,6 +9,7 @@ Used for the `=ver <plugin>` command.
 Got a plugin you want to add? Feel free to submit a pull request.
 
 **Example Templates:**
+## Links Command
 
 `/links/pluginname.json`
 ```
@@ -33,6 +34,7 @@ Got a plugin you want to add? Feel free to submit a pull request.
 
 `img` - Direct link to an image used in the embed author spot.
 
+## Versions Command
 `/versions/pluginname.json`
 ```
 {
