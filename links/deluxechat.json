@@ -1,7 +1,10 @@
 {
+    "name": "DeluxeChat", 
+    "title": "Information:",
+    "colour": "45055",
     "img": "https://www.spigotmc.org/data/resource_icons/1/1277.jpg",
+    "description": "The Original JSON Chat Formatting Plugin which Allows the Use of Placeholders to do Fancy Stuff",
     "Spigot": "https://www.spigotmc.org/resources/deluxechat.1277/",
     "Available Placeholders": "https://helpch.at/placeholders",
-    "»": "The Original JSON Chat Formatting Plugin Which Allows The Use of Placeholders To Do Fancy Stuff",
     "Demonstration Video": "https://www.youtube.com/watch?v=xqs8hptpFlc"
 }
