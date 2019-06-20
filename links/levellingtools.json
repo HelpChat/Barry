@@ -1,6 +1,10 @@
 {
+    
+    "name": "LevellingTools", 
+    "title": "Information",
+    "colour": "16777215",
     "img": "https://plugins.gg/plugin/levellingtools.png",
+    "description": "A dynamic Pickaxe, Axe & Shovel plugin which supports OmniTool levelling",
     "MCMarket Forums": "https://www.mc-market.org/threads/487991/#post-3950189",
-    "Home Site": "https://plugins.gg/",
-    "»": "A Dynamic Pickaxe, Shovel & Axe Plugin Which Features OmniTool Leveling"
+    "Home Site": "https://plugins.gg/"
 }
