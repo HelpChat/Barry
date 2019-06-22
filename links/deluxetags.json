@@ -1,4 +1,7 @@
 {
+    "name": "DeluxeTags", 
+    "title": "Information",
+    "colour": "14090495",
     "Description": "Allow players to select chat tags that can be awarded by permission! DeluxeChat + EssentialsChat",
     "img": "https://www.spigotmc.org/data/resource_icons/4/4390.jpg",
     "Spigot": "https://www.spigotmc.org/resources/deluxetags.4390/",
