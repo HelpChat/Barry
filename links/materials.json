@@ -1,5 +1,8 @@
 {
-    "Description": "Here you can find the list to all the different Materials!",
+    "name": "Minecraft Materials", 
+    "title": "Information",
+    "colour": "16725857",
+    "Description": "This list contains all the up-to date Materials that are available in Minecraft!",
     "1.8.8 - Materials": "https://helpch.at/docs/1.8.8/org/bukkit/Material.html",
     "1.12.2 - Materials": "https://helpch.at/docs/1.12.2/org/bukkit/Material.html",
     "1.13.2 - Materials": "https://helpch.at/docs/1.13.2/org/bukkit/Material.html",
