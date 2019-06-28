@@ -1,5 +1,8 @@
 {
-    "Description": "The all in one GUI menu plugin!",
+    "name": "DeluxeMenus", 
+    "title": "Information",
+    "colour": "50175",
+    "description": "The all in one GUI menu plugin!",
     "img": "https://www.spigotmc.org/data/resource_icons/11/11734.jpg",
     "Spigot": "https://www.spigotmc.org/resources/deluxemenus.11734/",
     "Wiki": "https://github.com/help-chat/deluxemenus/wiki",
