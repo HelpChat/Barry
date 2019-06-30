@@ -1,7 +1,8 @@
 {
     "name": "Minecraft Materials", 
     "title": "Information",
-    "colour": "16725857",
+    "colour": "3735296",
+    "img": "https://f4.bcbits.com/img/a3390257927_10.jpg",
     "Description": "This list contains all the up-to date Materials that are available in Minecraft!",
     "1.8.8 - Materials": "https://helpch.at/docs/1.8.8/org/bukkit/Material.html",
     "1.12.2 - Materials": "https://helpch.at/docs/1.12.2/org/bukkit/Material.html",
