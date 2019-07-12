@@ -1,6 +1,9 @@
 {
+    "name": "KiteBoard", 
+    "title": "Information",
+    "colour": "65323",
     "img": "https://www.spigotmc.org/data/resource_icons/13/13694.jpg?1546271808",
-    "»": "A Customizable All-In-One Animations Scoreboard & Tablist Plugin. Allows Your Scoreboard To Fly Like a Kite.",
+    "description": "A Customizable All-In-One Animations Scoreboard & Tablist Plugin. Allows Your Scoreboard To Fly Like a Kite.",
     "Spigot": "https://www.spigotmc.org/resources/13694/",
     "Wiki": "https://github.com/Niall7459/KiteBoard-Documentation/wiki",
     "GitHub": "https://github.com/Niall7459/KiteBoard-Documentation/wiki/Commands",
