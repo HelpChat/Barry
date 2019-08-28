@@ -1,7 +1,7 @@
 {
     "name": "ItemManager",
     "Description": "A plugin to manage items in player's inventory.",
-    "img": "https://www.spigotmc.org/data/resource_icons/70/70136.jpg?1565190806",
+    "img": "https://www.spigotmc.org/data/resource_icons/70/70136.jpg",
     "Spigot": "https://www.spigotmc.org/resources/70136/",
     "Statistics": "https://bstats.org/plugin/bukkit/ItemManager",
     "colour": "3328218"
