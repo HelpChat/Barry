@@ -3,6 +3,8 @@
     "Description": "The Best NPC Plugin",
     "img": "https://static.spigotmc.org/styles/spigot/xenresource/resource_icon.png",
     "Spigot": "https://spigotmc.org/resources/13811",
+    "Source Code": "https://github.com/CitizensDev/Citizens2",
     "Dev Builds": "https://ci.citizensnpcs.co/job/Citizens2/lastSuccessfulBuild/",
-    "Support": "https://discordapp.com/invite/Q6pZGSR"
+    "Wiki": "https://wiki.citizensnpcs.co/Citizens_Wiki",
+    "Support": "https://discord.gg/Q6pZGSR"
 }
