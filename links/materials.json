@@ -5,7 +5,8 @@
     "img": "https://f4.bcbits.com/img/a3390257927_10.jpg",
     "Description": "This list contains all the up-to date Materials that are available in Minecraft!",
     "1.8.8 - Materials": "https://helpch.at/docs/1.8.8/org/bukkit/Material.html",
-    "1.12.2 - Materials": "https://helpch.at/docs/1.12.2/org/bukkit/Material.html",
-    "1.13.2 - Materials": "https://helpch.at/docs/1.13.2/org/bukkit/Material.html",
-    "1.14.2 - Materials": "https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html"
+    "1.12.x - Materials": "https://helpch.at/docs/1.12.2/org/bukkit/Material.html",
+    "1.13.x - Materials": "https://helpch.at/docs/1.13.2/org/bukkit/Material.html",
+    "1.14.x - Materials": "https://helpch.at/docs/1.14/org/bukkit/Material.html",
+    "1.15.x - Materials": "https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html"
 }
