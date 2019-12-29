@@ -1,5 +1,6 @@
 {
-    "Description": "BungeeCord plugin to deny connections of clients with versions older than x",
+    "Description": "BungeeCord plugin to deny connections of clients with versions other than x",
     "img": "https://www.spigotmc.org/data/resource_icons/71/71727.jpg",
-    "Spigot": "https://www.spigotmc.org/resources/71727/"
+    "Spigot": "https://www.spigotmc.org/resources/71727/",
+    "Jenkins": "https://ci.codemc.io/view/Author/job/Andre601/job/OneVersionRemake/"
 }
