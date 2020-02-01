@@ -1,7 +1,10 @@
 {
+    "name": "Fawe",
+    "title": "Information:",
     "Description": "Blazingly fast world manipulation for builders, large networks and developers.",
     "img": "https://www.spigotmc.org/data/resource_icons/13/13932.jpg",
     "Spigot": "https://www.spigotmc.org/resources/13932/",
-    "GitHub": "https://github.com/boy0001/FastAsyncWorldedit",
+    "GitHub": "https://github.com/IntellectualSites/FastAsyncWorldEdit",
+    "Wiki": "https://github.com/IntellectualSites/FastAsyncWorldEdit/wiki",
     "Support": "https://discord.gg/ngZCzbU"
 }
