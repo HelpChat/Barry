@@ -1,0 +1,10 @@
+{
+    "name": "Guilds", 
+    "title": "Information:",
+    "img": "https://www.spigotmc.org/data/resource_icons/66/66176.jpg",
+    "description": "RPG, GUIs, Land Claims, Arenas, Guild Wars, MySQL, and more!",
+    "Spigot": "https://www.spigotmc.org/resources/66176/",
+    "GitHub": "https://github.com/guilds-plugin",
+    "Placeholders": "https://wiki.helpch.at/glares-plugins/guilds-w.i.p-migration/placeholders",
+    "Wiki": "https://wiki.helpch.at/glares-plugins/guilds-w.i.p-migration"
+}
