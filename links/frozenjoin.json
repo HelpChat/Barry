@@ -2,7 +2,8 @@
     "name": "FrozenJoin", 
     "title": "Information:",
     "colour": "54527",
-    "Description": "A Custom Join/Quit Message Plugin",
-    "img": "https://www.spigotmc.org/data/resource_icons/67/67152.jpg?1557171814",
-    "Spigot": "https://www.spigotmc.org/resources/frozen-join.67152/"
+    "Description": "A Fully Customisable Join/Quit Message Plugin",
+    "img": "https://www.spigotmc.org/data/resource_icons/73/73288.jpg?1584884735",
+    "Spigot": "https://www.spigotmc.org/resources/frozen-join.73288/",
+    "GitHub": "https://github.com/Frcsty/FrozenJoin"
 }
