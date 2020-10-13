@@ -1,11 +1,11 @@
 {
     "name": "PlotSquared", 
     "title": "Information:",
-    "img": "https://www.spigotmc.org/data/resource_icons/1/1177.jpg",
+    "img": "https://www.spigotmc.org/data/resource_icons/77/77506.jpg",
     "description": "The best plot plugin available for Minecraft.",
-    "Spigot": "https://www.spigotmc.org/resources/plotsquared.1177/",
+    "Spigot": "https://www.spigotmc.org/resources/77506/",
     "GitHub": "https://github.com/IntellectualSites/PlotSquared",
-    "Placeholders": "https://api.extendedclip.com/expansions/plotsquared/",
-    "Wiki": "https://github.com/IntellectualSites/PlotSquared/wiki",
-    "Support": "https://discord.gg/ngZCzbU"
+    "Wiki": "https://wiki.intellectualsites.com/plotsquared",
+    "Support": "https://discord.gg/KxkjDVg",
+    "Depends on": "FastAsyncWorldEdit or WorldEdit"
 }
