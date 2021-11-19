@@ -1,5 +1,5 @@
 {
-    "Description": "BungeeCord plugin to deny connections of clients with versions other than x",
+    "Description": "Velocity and BungeeCord plugin that allows you to set a list of versions that should be able to join.",
     "img": "https://www.spigotmc.org/data/resource_icons/71/71727.jpg",
     "Spigot": "https://www.spigotmc.org/resources/71727/",
     "GitHub": "https://github.com/Andre601/OneVersionRemake",
