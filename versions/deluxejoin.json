@@ -5,5 +5,6 @@
     "1.13.2": "v2.9.2 - Latest",
     "1.14.4": "v2.9.2 - Latest",
     "1.15.2": "v2.9.2 - Latest",
-    "1.16.5": "v2.9.2 - Latest"
+    "1.16.5": "v2.9.2 - Latest",
+    "1.17.1": "Use FrozenJoin Instead"
 }
