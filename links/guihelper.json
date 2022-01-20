@@ -1,8 +1,9 @@
 {
+    "colour": "5255223",
     "name": "⚡ GUIHelper | The in-game GUI builder ⚡",
     "Description": "The ultimate solution to creating professional GUIs",
-    "img": "https://static.mc-market.org/data/resource_icons/12/12098.jpg?1566987406",
+    "img": "https://www.spigotmc.org/data/resource_icons/70/70831.jpg?1566985873",
     "Spigot": "https://spigotmc.org/resources/70831/",
     "Support": "https://gabytm.me/",
-    "colour": "5255223"
+    "Dev Builds": "https://ci.codemc.io/job/iGabyTM/job/GUIHelper/"
 }
