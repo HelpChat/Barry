@@ -1,6 +1,7 @@
 {
-    "Description": "Give rewards to all online players when the server gets a certain amount of votes! 1.8+",
+    "Description": "Vote Rewards, Cumulative Voting, Party Rewards, Leaderboards, Crates, and more! 1.8+",
     "img": "https://www.spigotmc.org/data/resource_icons/0/987.jpg",
-    "Spigot": "https://www.spigotmc.org/resources/voteparty.987/",
-    "Placeholders": "https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#voteparty"
+    "Spigot": "https://www.spigotmc.org/resources/987/",
+    "Placeholders": "https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#voteparty",
+    "Wiki": "https://wiki.helpch.at/glares-plugins/voteparty"
 }
