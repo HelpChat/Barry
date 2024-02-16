@@ -1,0 +1,10 @@
+{
+  "name": "AdvancedServerList",
+  "colour": "3903743",
+  "description": "Plugin to modify your servers MOTD, favicon, player count and player count list with optional conditions",
+  "img": "https://raw.githubusercontent.com/Andre601/AdvancedServerList/master/.github/assets/logo.png",
+  "Modrinth": "https://modrinth.com/plugin/advancedserverlist",
+  "Codeberg (Source)": "https://codeberg.org/Andre601/AdvancedServerList",
+  "Wiki": "https://asl.andre601.ch",
+  "API Javadocs": "https://docs.andre601.ch/asl-api"
+}
